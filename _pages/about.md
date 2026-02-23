@@ -10,12 +10,13 @@ I am an Assistant Professor at the [Institute of Automation, Chinese Academy of 
 
 My research interests lie in **Computer Vision** and **Video-Language Models**, with a particular focus on object detection, image recognition, and video understanding. I have built a solid research foundation in intelligent video analysis for public safety and medical applications.
 
-I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives. I have published over 50 peer-reviewed papers in top-tier venues, accumulating **1,000+** citations on Google Scholar.
+I am currently the Principal Investigator of a National Natural Science Foundation of China (NSFC) Youth Science Fund project and have contributed to several other NSFC-funded initiatives. I have published over 60 peer-reviewed papers in top-tier venues, accumulating **1,000+** citations on Google Scholar.
 
 ---
 
 # 📰 News
 
+- **[Apr 2026]** 🏫 We are co-organizing the [**Medical Augmented Reality Summer School 2026**](https://www.medicalaugmentedreality.org/mar2026.html) in Shenzhen, China!
 - **[Feb 2026]** 🎉 3 papers accepted by **CVPR 2026**!
 - **[Jan 2026]** 🎉 2 papers accepted by **AAAI 2026**!
 
